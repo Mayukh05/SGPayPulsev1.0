@@ -1,0 +1,13 @@
+################### Prompt For Project ############
+
+Gemini, 
+
+As aware of my project and SGPay Pulse
+
+I need some refernce and advancement bsaed on the UX/UI https://tfinder-ipmc.streamlit.app/?ref=streamlit-io-gallery-science-technology
+
+Wehere the "Home" buttoon has the dertails for all the and snapshot of the data base of Minister
+
+"Tool" - Will be the use the chatbat query bot.
+
+Refernce and do the enahcneemnt and privide me the files 

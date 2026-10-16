@@ -1,0 +1,38 @@
+{
+    "Lawrence Wong": {
+        "name": "Lawrence Wong",
+        "current_appointment": "Prime Minister and Minister for Finance",
+        "constituency": "Marsiling-Yew Tee GRC",
+        "parliamentary_terms": ["12th", "13th", "14th"],
+        "historical_portfolios": [
+            {"term": "12th", "portfolio": "Minister for Culture, Community and Youth"},
+            {"term": "13th", "portfolio": "Minister for National Development"},
+            {"term": "14th", "portfolio": "Minister for Finance / Deputy Prime Minister"}
+        ],
+        "biography_summary": "Assumed office as Singapore's 4th Prime Minister on 15 May 2024. Concurrently serves as Minister for Finance."
+    },
+    "Chan Chun Sing": {
+        "name": "Chan Chun Sing",
+        "current_appointment": "Minister for Education",
+        "constituency": "Tanjong Pagar GRC",
+        "parliamentary_terms": ["12th", "13th", "14th"],
+        "historical_portfolios": [
+            {"term": "12th", "portfolio": "Minister for Social and Family Development"},
+            {"term": "13th", "portfolio": "Minister for Trade and Industry"},
+            {"term": "14th", "portfolio": "Minister for Education"}
+        ],
+        "biography_summary": "Appointed Minister for Education in May 2021. Previously served as Secretary-General of NTUC and Minister in the Prime Minister's Office."
+    },
+    "Ong Ye Kung": {
+        "name": "Ong Ye Kung",
+        "current_appointment": "Minister for Health",
+        "constituency": "Sembawang GRC",
+        "parliamentary_terms": ["13th", "14th"],
+        "historical_portfolios": [
+            {"term": "13th", "portfolio": "Minister for Education (Higher Education and Skills)"},
+            {"term": "14th", "portfolio": "Minister for Transport"},
+            {"term": "14th", "portfolio": "Minister for Health"}
+        ],
+        "biography_summary": "Appointed Minister for Health in May 2021, leading Singapore's healthcare strategies and responses."
+    }
+}
