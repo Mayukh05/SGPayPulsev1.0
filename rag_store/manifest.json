@@ -1,0 +1,34 @@
+[
+  {
+    "id": "51d5fc9c-6c08-46f7-a4b2-9d8702cc274c",
+    "filename": "2017_salary_review.pdf",
+    "sha256": "ab31b3565f5cf1f8492940cbd85681465e2e5e1b4b604cf6577a142163c0fa66",
+    "chunks": 45,
+    "source_url": "https://www.nas.gov.sg/archivesonline/data/pdfdoc/20180301004/Annex%20B%202017%20Review%20Committee%20Report.pdf",
+    "source_label": "National Archives of Singapore"
+  },
+  {
+    "id": "4dd786ed-cf82-47d0-871d-b0225b77fac3",
+    "filename": "2026_research_pack.docx",
+    "sha256": "6a5aa0baff7de23278153effdbbfa25e30fe0562f078b2d460ebc63b8f3b4eb0",
+    "chunks": 10,
+    "source_url": "",
+    "source_label": "User-supplied research material"
+  },
+  {
+    "id": "a561634c-c11b-40e5-aefa-70e32b14f52f",
+    "filename": "project_proposal.docx",
+    "sha256": "c2c4bb7d854f0587493725ec34a214835e29b010d64b100337f8174d3ccf5e8d",
+    "chunks": 6,
+    "source_url": "",
+    "source_label": "User-supplied research material"
+  },
+  {
+    "id": "24b1422b-4cee-404f-8dd6-c640e2443402",
+    "filename": "SGPayPulse_RAG_Knowledge_Test.txt",
+    "sha256": "5b36a9d0b2f852aface589b2364923303a2d93ffecd65c7e2eacd2d8c3cdf770",
+    "chunks": 2,
+    "source_url": "",
+    "source_label": "Official government publication"
+  }
+]

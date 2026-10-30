@@ -1,4 +1,9 @@
-streamlit>=1.30.0
-pandas>=2.0.0
-plotly>=5.18.0
-openai>=1.10.0
+streamlit>=1.36,<2
+pandas>=2.0
+plotly>=5.18
+chromadb>=0.5,<2
+pypdf>=4.0
+python-docx>=1.1
+openai>=1.30
+
+# Recommended Python runtime: 3.11
