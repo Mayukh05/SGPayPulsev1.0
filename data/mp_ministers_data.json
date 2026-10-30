@@ -1,38 +1,699 @@
 {
-    "Lawrence Wong": {
-        "name": "Lawrence Wong",
-        "current_appointment": "Prime Minister and Minister for Finance",
-        "constituency": "Marsiling-Yew Tee GRC",
-        "parliamentary_terms": ["12th", "13th", "14th"],
-        "historical_portfolios": [
-            {"term": "12th", "portfolio": "Minister for Culture, Community and Youth"},
-            {"term": "13th", "portfolio": "Minister for National Development"},
-            {"term": "14th", "portfolio": "Minister for Finance / Deputy Prime Minister"}
-        ],
-        "biography_summary": "Assumed office as Singapore's 4th Prime Minister on 15 May 2024. Concurrently serves as Minister for Finance."
-    },
-    "Chan Chun Sing": {
-        "name": "Chan Chun Sing",
-        "current_appointment": "Minister for Education",
-        "constituency": "Tanjong Pagar GRC",
-        "parliamentary_terms": ["12th", "13th", "14th"],
-        "historical_portfolios": [
-            {"term": "12th", "portfolio": "Minister for Social and Family Development"},
-            {"term": "13th", "portfolio": "Minister for Trade and Industry"},
-            {"term": "14th", "portfolio": "Minister for Education"}
-        ],
-        "biography_summary": "Appointed Minister for Education in May 2021. Previously served as Secretary-General of NTUC and Minister in the Prime Minister's Office."
-    },
-    "Ong Ye Kung": {
-        "name": "Ong Ye Kung",
-        "current_appointment": "Minister for Health",
-        "constituency": "Sembawang GRC",
-        "parliamentary_terms": ["13th", "14th"],
-        "historical_portfolios": [
-            {"term": "13th", "portfolio": "Minister for Education (Higher Education and Skills)"},
-            {"term": "14th", "portfolio": "Minister for Transport"},
-            {"term": "14th", "portfolio": "Minister for Health"}
-        ],
-        "biography_summary": "Appointed Minister for Health in May 2021, leading Singapore's healthcare strategies and responses."
-    }
+  "Lawrence Wong": {
+    "name": "Lawrence Wong",
+    "current_appointment": "Prime Minister and Minister for Finance",
+    "constituency": "Marsiling-Yew Tee GRC",
+    "parliamentary_terms": [
+      "First elected 2011; re-elected three times (PMO biography)"
+    ],
+    "historical_portfolios": [
+      {
+        "term": "Historical (date not specified in cited biography)",
+        "portfolio": "Minister for Culture, Community and Youth",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-lawrence-wong/"
+      },
+      {
+        "term": "Historical (date not specified in cited biography)",
+        "portfolio": "Minister for National Development",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-lawrence-wong/"
+      },
+      {
+        "term": "Historical (date not specified in cited biography)",
+        "portfolio": "Minister for Education",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-lawrence-wong/"
+      },
+      {
+        "term": "2024",
+        "portfolio": "Prime Minister",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-lawrence-wong/",
+        "start_date": "2024-05-15"
+      },
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Prime Minister and Minister for Finance",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-lawrence-wong/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "partial_source_verified"
+  },
+  "Lee Hsien Loong": {
+    "name": "Lee Hsien Loong",
+    "current_appointment": "Senior Minister",
+    "constituency": "Ang Mo Kio GRC",
+    "parliamentary_terms": [
+      "First elected 1984; re-elected through 2025 (PMO biography)"
+    ],
+    "historical_portfolios": [
+      {
+        "term": "1984-1987",
+        "portfolio": "Minister of State, Trade and Industry and Defence",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-lee-hsien-loong/"
+      },
+      {
+        "term": "1987-1992",
+        "portfolio": "Minister for Trade and Industry",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-lee-hsien-loong/",
+        "start_date": "1987",
+        "end_date": "1992"
+      },
+      {
+        "term": "1987-1990",
+        "portfolio": "Second Minister for Defence",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-lee-hsien-loong/",
+        "start_date": "1987",
+        "end_date": "1990"
+      },
+      {
+        "term": "1990-2004",
+        "portfolio": "Deputy Prime Minister",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-lee-hsien-loong/",
+        "start_date": "1990",
+        "end_date": "2004"
+      },
+      {
+        "term": "2001-2007",
+        "portfolio": "Minister for Finance",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-lee-hsien-loong/",
+        "start_date": "2001",
+        "end_date": "2007"
+      },
+      {
+        "term": "2004-2024",
+        "portfolio": "Prime Minister",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-lee-hsien-loong/",
+        "start_date": "2004-08",
+        "end_date": "2024-05"
+      },
+      {
+        "term": "2024-present",
+        "portfolio": "Senior Minister",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-lee-hsien-loong/",
+        "start_date": "2024-05"
+      },
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Senior Minister",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-lee-hsien-loong/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "partial_source_verified"
+  },
+  "Gan Kim Yong": {
+    "name": "Gan Kim Yong",
+    "current_appointment": "Deputy Prime Minister and Minister for Energy, Trade and Industry (Trade)",
+    "constituency": "Punggol GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "Historical",
+        "portfolio": "Minister for Health",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-gan-kim-yong/"
+      },
+      {
+        "term": "Historical",
+        "portfolio": "Minister for Manpower",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-gan-kim-yong/"
+      },
+      {
+        "term": "2024-present",
+        "portfolio": "Deputy Prime Minister",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-gan-kim-yong/"
+      },
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Deputy Prime Minister and Minister for Energy, Trade and Industry (Trade)",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-gan-kim-yong/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "partial_source_verified"
+  },
+  "K Shanmugam": {
+    "name": "K Shanmugam",
+    "current_appointment": "Senior Minister, Coordinating Minister for National Security and Minister for Home Affairs",
+    "constituency": "Nee Soon GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "2008-2025",
+        "portfolio": "Minister for Law",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-k-shanmugam/",
+        "start_date": "2008",
+        "end_date": "2025"
+      },
+      {
+        "term": "2011-2015",
+        "portfolio": "Minister for Foreign Affairs",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-k-shanmugam/",
+        "start_date": "2011",
+        "end_date": "2015"
+      },
+      {
+        "term": "2015-present",
+        "portfolio": "Minister for Home Affairs",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-k-shanmugam/",
+        "start_date": "2015"
+      },
+      {
+        "term": "2025-present",
+        "portfolio": "Coordinating Minister for National Security",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-k-shanmugam/",
+        "start_date": "2025-05"
+      },
+      {
+        "term": "2026-present",
+        "portfolio": "Senior Minister",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-k-shanmugam/",
+        "start_date": "2026-07"
+      },
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Senior Minister, Coordinating Minister for National Security and Minister for Home Affairs",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-k-shanmugam/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "partial_source_verified"
+  },
+  "Chan Chun Sing": {
+    "name": "Chan Chun Sing",
+    "current_appointment": "Coordinating Minister for Public Services and Minister for Defence",
+    "constituency": "Tanjong Pagar GRC",
+    "parliamentary_terms": [
+      "First elected 2011 (PMO biography)"
+    ],
+    "historical_portfolios": [
+      {
+        "term": "2011-2012",
+        "portfolio": "Acting Minister for Community Development, Youth and Sports",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-chan-chun-sing/",
+        "start_date": "2011",
+        "end_date": "2012"
+      },
+      {
+        "term": "2013-2015",
+        "portfolio": "Minister for Social and Family Development",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-chan-chun-sing/",
+        "start_date": "2013",
+        "end_date": "2015"
+      },
+      {
+        "term": "2013-2015",
+        "portfolio": "Second Minister for Defence",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-chan-chun-sing/",
+        "start_date": "2013",
+        "end_date": "2015"
+      },
+      {
+        "term": "2018-2021",
+        "portfolio": "Minister for Trade and Industry",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-chan-chun-sing/",
+        "start_date": "2018-05",
+        "end_date": "2021-05"
+      },
+      {
+        "term": "2021-2025",
+        "portfolio": "Minister for Education",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-chan-chun-sing/",
+        "start_date": "2021-05",
+        "end_date": "2025-05"
+      },
+      {
+        "term": "2025-present",
+        "portfolio": "Minister for Defence",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-chan-chun-sing/",
+        "start_date": "2025-05-23"
+      },
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Coordinating Minister for Public Services and Minister for Defence",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-chan-chun-sing/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "partial_source_verified"
+  },
+  "Ong Ye Kung": {
+    "name": "Ong Ye Kung",
+    "current_appointment": "Coordinating Minister for Social Policies and Minister for Health",
+    "constituency": "Sembawang GRC",
+    "parliamentary_terms": [
+      "Elected 2015, 2020, 2025 (PMO biography)"
+    ],
+    "historical_portfolios": [
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Coordinating Minister for Social Policies and Minister for Health",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-ong-ye-kung/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "current_only_verified"
+  },
+  "Vivian Balakrishnan": {
+    "name": "Vivian Balakrishnan",
+    "current_appointment": "Minister for Foreign Affairs",
+    "constituency": "Holland-Bukit Timah GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Minister for Foreign Affairs",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/dr-vivian-balakrishnan/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "current_only_verified"
+  },
+  "Grace Fu Hai Yien": {
+    "name": "Grace Fu Hai Yien",
+    "current_appointment": "Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations",
+    "constituency": "Jurong East-Bukit Batok GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Minister for Sustainability and the Environment and Minister-in-charge of Trade Relations",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/ms-grace-fu-hai-yien/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "current_only_verified"
+  },
+  "Masagos Zulkifli": {
+    "name": "Masagos Zulkifli",
+    "current_appointment": "Minister for Social and Family Development",
+    "constituency": "Tampines GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Minister for Social and Family Development",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-masagos-zulkifli/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "current_only_verified"
+  },
+  "Josephine Teo": {
+    "name": "Josephine Teo",
+    "current_appointment": "Minister for Digital Development and Information",
+    "constituency": "Jalan Besar GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Minister for Digital Development and Information",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mrs-josephine-teo/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "current_only_verified"
+  },
+  "Desmond Lee": {
+    "name": "Desmond Lee",
+    "current_appointment": "Minister for Education",
+    "constituency": "West Coast-Jurong West GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Minister for Education",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-desmond-lee/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "current_only_verified"
+  },
+  "Indranee Thurai Rajah": {
+    "name": "Indranee Thurai Rajah",
+    "current_appointment": "Minister, Prime Minister’s Office, Second Minister for Finance and Second Minister for National Development",
+    "constituency": "Tanjong Pagar GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Minister, Prime Minister’s Office, Second Minister for Finance and Second Minister for National Development",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/ms-indranee-thurai-rajah/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "current_only_verified"
+  },
+  "Edwin Tong": {
+    "name": "Edwin Tong",
+    "current_appointment": "Minister for Law and Second Minister for Home Affairs",
+    "constituency": "East Coast GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Minister for Law and Second Minister for Home Affairs",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-edwin-tong/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "current_only_verified"
+  },
+  "Tan See Leng": {
+    "name": "Tan See Leng",
+    "current_appointment": "Minister for Energy, Trade and Industry (Energy and Industry)",
+    "constituency": "Chua Chu Kang GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "2025-2026",
+        "portfolio": "Minister for Manpower",
+        "source_url": "https://www.pmo.gov.sg/newsroom/changes-to-cabinet-and-other-appointments-and-the-renaming-of-the-ministry-of-trade-and-industry-jul-2026/",
+        "end_date": "2026-07-26"
+      },
+      {
+        "term": "2026-present",
+        "portfolio": "Minister for Energy, Trade and Industry (Energy and Industry)",
+        "source_url": "https://www.pmo.gov.sg/newsroom/changes-to-cabinet-and-other-appointments-and-the-renaming-of-the-ministry-of-trade-and-industry-jul-2026/",
+        "start_date": "2026-07-27"
+      },
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Minister for Energy, Trade and Industry (Energy and Industry)",
+        "start_date": "2026-07-27",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/dr-tan-see-leng/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "partial_source_verified"
+  },
+  "Chee Hong Tat": {
+    "name": "Chee Hong Tat",
+    "current_appointment": "Minister for National Development",
+    "constituency": "Bishan-Toa Payoh GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Minister for National Development",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-chee-hong-tat/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "current_only_verified"
+  },
+  "Ng Chee Meng": {
+    "name": "Ng Chee Meng",
+    "current_appointment": "Minister, Prime Minister’s Office",
+    "constituency": "Jalan Kayu SMC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "2015-2016",
+        "portfolio": "Acting Minister for Education (Schools)",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-ng-chee-meng/",
+        "start_date": "2015-10-01",
+        "end_date": "2016-11-01"
+      },
+      {
+        "term": "2016-2018",
+        "portfolio": "Minister for Education (Schools)",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-ng-chee-meng/",
+        "start_date": "2016-11-01",
+        "end_date": "2018-04-30"
+      },
+      {
+        "term": "2018-2020",
+        "portfolio": "Minister, Prime Minister’s Office",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-ng-chee-meng/",
+        "start_date": "2018-05",
+        "end_date": "2020-07"
+      },
+      {
+        "term": "2026-present",
+        "portfolio": "Minister, Prime Minister’s Office",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-ng-chee-meng/",
+        "start_date": "2026-07-27"
+      },
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Minister, Prime Minister’s Office",
+        "start_date": "2026-07-27",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-ng-chee-meng/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-ng-chee-meng/",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "partial_source_verified"
+  },
+  "Jeffrey Siow": {
+    "name": "Jeffrey Siow",
+    "current_appointment": "Minister for Transport and Second Minister for Finance",
+    "constituency": "Chua Chu Kang GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "2026-present",
+        "portfolio": "Minister for Transport",
+        "source_url": "https://www.pmo.gov.sg/newsroom/changes-to-cabinet-and-other-appointments-and-the-renaming-of-the-ministry-of-trade-and-industry-jul-2026/",
+        "start_date": "2026-07-27"
+      },
+      {
+        "term": "2026-present",
+        "portfolio": "Second Minister for Finance",
+        "source_url": "https://www.pmo.gov.sg/newsroom/changes-to-cabinet-and-other-appointments-and-the-renaming-of-the-ministry-of-trade-and-industry-jul-2026/",
+        "start_date": "2026-07-27"
+      },
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Minister for Transport and Second Minister for Finance",
+        "start_date": "2026-07-27",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-jeffrey-siow/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "partial_source_verified"
+  },
+  "David Neo": {
+    "name": "David Neo",
+    "current_appointment": "Minister for Culture, Community and Youth and Second Minister for Education",
+    "constituency": "Tampines GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "2026-present",
+        "portfolio": "Minister for Culture, Community and Youth",
+        "source_url": "https://www.pmo.gov.sg/newsroom/changes-to-cabinet-and-other-appointments-and-the-renaming-of-the-ministry-of-trade-and-industry-jul-2026/",
+        "start_date": "2026-07-27"
+      },
+      {
+        "term": "2026-present",
+        "portfolio": "Second Minister for Education",
+        "source_url": "https://www.pmo.gov.sg/newsroom/changes-to-cabinet-and-other-appointments-and-the-renaming-of-the-ministry-of-trade-and-industry-jul-2026/",
+        "start_date": "2026-07-27"
+      },
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Minister for Culture, Community and Youth and Second Minister for Education",
+        "start_date": "2026-07-27",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-david-neo/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "partial_source_verified"
+  },
+  "Sim Ann": {
+    "name": "Sim Ann",
+    "current_appointment": "Second Minister for Foreign Affairs and Second Minister for Home Affairs",
+    "constituency": "Holland-Bukit Timah GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "2026-present",
+        "portfolio": "Second Minister for Foreign Affairs",
+        "source_url": "https://www.pmo.gov.sg/newsroom/changes-to-cabinet-and-other-appointments-and-the-renaming-of-the-ministry-of-trade-and-industry-jul-2026/",
+        "start_date": "2026-07-27"
+      },
+      {
+        "term": "2026-present",
+        "portfolio": "Second Minister for Home Affairs",
+        "source_url": "https://www.pmo.gov.sg/newsroom/changes-to-cabinet-and-other-appointments-and-the-renaming-of-the-ministry-of-trade-and-industry-jul-2026/",
+        "start_date": "2026-07-27"
+      },
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Second Minister for Foreign Affairs and Second Minister for Home Affairs",
+        "start_date": "2026-07-27",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/ms-sim-ann/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "partial_source_verified"
+  },
+  "Zaqy Mohamad": {
+    "name": "Zaqy Mohamad",
+    "current_appointment": "Acting Minister-in-charge of Muslim Affairs",
+    "constituency": "Marsiling-Yew Tee GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "2026-present",
+        "portfolio": "Acting Minister-in-charge of Muslim Affairs",
+        "source_url": "https://www.pmo.gov.sg/newsroom/changes-to-cabinet-and-other-appointments-and-the-renaming-of-the-ministry-of-trade-and-industry-jul-2026/",
+        "start_date": "2026-07-20"
+      },
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Acting Minister-in-charge of Muslim Affairs",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/mr-zaqy-mohamad/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "partial_source_verified"
+  },
+  "Jasmin Lau": {
+    "name": "Jasmin Lau",
+    "current_appointment": "Acting Minister for Manpower",
+    "constituency": "Ang Mo Kio GRC",
+    "parliamentary_terms": [],
+    "historical_portfolios": [
+      {
+        "term": "2026-present",
+        "portfolio": "Acting Minister for Manpower",
+        "source_url": "https://www.pmo.gov.sg/newsroom/changes-to-cabinet-and-other-appointments-and-the-renaming-of-the-ministry-of-trade-and-industry-jul-2026/",
+        "start_date": "2026-07-27"
+      },
+      {
+        "term": "Current (as of 2026-10-30)",
+        "portfolio": "Acting Minister for Manpower",
+        "start_date": "2026-07-27",
+        "source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/"
+      }
+    ],
+    "biography_summary": "Current appointment verified from the PMO Cabinet list. Historical entries include only source-supported appointments; unlisted history is not evidence of no previous service.",
+    "profile_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/ms-jasmin-lau/",
+    "current_appointment_source_url": "https://www.pmo.gov.sg/about-us/the-cabinet/",
+    "constituency_source_url": "https://www.parliament.gov.sg/docs/default-source/composite-photos/15th-parliament-composite-photo-%28updated-11-may-2026%29d9e39242-57e2-413b-ab30-33959b2ab46f.pdf?sfvrsn=b0195808_1",
+    "as_of": "2026-10-30",
+    "individual_actual_salary_sgd": null,
+    "individual_actual_salary_status": "not_publicly_verified",
+    "historical_coverage": "partial_source_verified"
+  }
 }

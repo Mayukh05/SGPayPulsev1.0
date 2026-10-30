@@ -1,0 +1,80 @@
+{
+  "last_reviewed": "2026-10-30",
+  "effective_date": "2026-10-15",
+  "sources": [
+    {
+      "id": "PMO2026",
+      "title": "PMO media release, 8 September 2026",
+      "url": "https://www.pmo.gov.sg/newsroom/media-release-on-building-a-strong-team-for-singapore/"
+    },
+    {
+      "id": "PMOSTATEMENT",
+      "title": "PM Lawrence Wong ministerial statement, 8 September 2026",
+      "url": "https://www.pmo.gov.sg/newsroom/pm-lawrence-wong-on-government-response-to-2026-review-of-salaries-for-political-appointment-holders-and-members-of-parliament/"
+    }
+  ],
+  "rates": [
+    {
+      "id": "pm",
+      "label": "Prime Minister",
+      "previous": 2200000,
+      "current": 3600000,
+      "unit": "annual",
+      "kind": "framework_reference",
+      "source_id": "PMO2026",
+      "verification_note": "Framework reference; not independently disclosed individual take-home pay."
+    },
+    {
+      "id": "mr4",
+      "label": "MR4 Minister",
+      "previous": 1100000,
+      "current": 1800000,
+      "unit": "annual",
+      "kind": "framework_reference",
+      "source_id": "PMO2026",
+      "verification_note": "Updated benchmark, NOT the automatic post-adjustment salary of existing MR4 ministers."
+    },
+    {
+      "id": "mp",
+      "label": "Member of Parliament",
+      "previous": 13750,
+      "current": 18500,
+      "unit": "monthly",
+      "kind": "allowance",
+      "source_id": "PMO2026"
+    },
+    {
+      "id": "ncmp",
+      "label": "Non-Constituency MP",
+      "previous": null,
+      "current": 5550,
+      "unit": "monthly",
+      "kind": "allowance",
+      "source_id": "PMOSTATEMENT",
+      "verification_note": "Verify specific allowance amount against the full official 2026 committee report before relying on this entry."
+    },
+    {
+      "id": "nmp",
+      "label": "Nominated MP",
+      "previous": null,
+      "current": 2775,
+      "unit": "monthly",
+      "kind": "allowance",
+      "source_id": "PMOSTATEMENT",
+      "verification_note": "Verify specific allowance amount against the full official 2026 committee report before relying on this entry."
+    }
+  ],
+  "implementation": {
+    "existing_officeholders_max_one_off_percent": 9,
+    "not_automatic": true,
+    "individual_salary_disclosure": "not established by these framework sources",
+    "minister_grade_range_percent": [
+      75,
+      125
+    ],
+    "merged_grades": "MR2 and MR3 combined",
+    "national_bonus_effective": "2027-01-01",
+    "minister_current_individual_salaries": "not disclosed for all named ministers",
+    "2026_adjustment_note": "One-off increase of up to 9%, not a 63.6% actual salary rise for existing ministers."
+  }
+}
